@@ -4,7 +4,7 @@ A Flutter application That Generates infinite Startup Names, having a infinite s
 
 # Getting Started
 
-For help getting started with Flutter, view online Flutter [Documentation](https://flutter.dev/)
+For help getting started with Flutter, view online Flutter [Documentation](https://flutter.dev/docs)
 
 
 
